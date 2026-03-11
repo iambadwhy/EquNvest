@@ -9,7 +9,7 @@ import imgFrame36 from "../../assets/Frame 51.png";
 import imgFrame37 from "../../assets/Frame 52.png";
 import imgHero4 from "../../assets/Hero4.png";
 import imgPricingCards1 from "../../assets/Pricing1.png";
-import { useState } from "react";
+import { useState, type ReactNode } from "react";
 import Disclaimer from "../imports/Frame50";
 import PrivacyPolicy from "../imports/Frame51";
 import TermsOfUse from "../imports/Frame52";
@@ -589,7 +589,7 @@ function CapitalParticipation() {
   );
 }
 
-function Overlay({ onClose, children }: { onClose: () => void; children: React.ReactNode }) {
+function Overlay({ onClose, children }: { onClose: () => void; children: ReactNode }) {
   return (
     <div className="fixed inset-0 z-[100] flex items-center justify-center">
       <div className="absolute inset-0 bg-black/80 backdrop-blur-sm" onClick={onClose} />
