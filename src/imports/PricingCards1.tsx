@@ -51,7 +51,7 @@ function Header() {
 
 function PrimaryButton() {
   return (
-    <button className="bg-[#155dfc] cursor-pointer relative shrink-0 w-full" data-name="Primary button">
+    <a href="mailto:info@equnvest.com" className="bg-[#155dfc] cursor-pointer relative shrink-0 w-full" data-name="Primary button">
       <div className="flex flex-row items-center size-full">
         <div className="content-stretch flex items-center justify-between px-[16px] py-[12px] relative w-full">
           <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[14px] text-center text-white tracking-[-0.07px] whitespace-nowrap">
@@ -70,7 +70,7 @@ function PrimaryButton() {
           </div>
         </div>
       </div>
-    </button>
+    </a>
   );
 }
 
@@ -123,7 +123,7 @@ function Header1() {
 
 function PrimaryButton1() {
   return (
-    <button className="bg-[#155dfc] cursor-pointer relative shrink-0 w-full" data-name="Primary button">
+    <a href="mailto:info@equnvest.com" className="bg-[#155dfc] cursor-pointer relative shrink-0 w-full" data-name="Primary button">
       <div className="flex flex-row items-center size-full">
         <div className="content-stretch flex items-center justify-between px-[16px] py-[12px] relative w-full">
           <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[14px] text-center text-white tracking-[-0.07px] whitespace-nowrap">
@@ -142,7 +142,7 @@ function PrimaryButton1() {
           </div>
         </div>
       </div>
-    </button>
+    </a>
   );
 }
 

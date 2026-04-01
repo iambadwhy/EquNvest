@@ -4,7 +4,7 @@ export default function Frame() {
       <h2 className="block leading-[0.8] relative shrink-0 text-[28px] md:text-[40px] lg:text-[56px] tracking-[-2.24px] uppercase w-full">TERMS OF USE</h2>
       <div className="leading-[0] relative shrink-0 text-[12px] tracking-[-0.06px] w-full whitespace-pre-wrap">
         <p className="leading-[1.45] mb-0">EquNvest LLC</p>
-        <p className="leading-[1.45] mb-0">Effective Date: [Insert Date]</p>
+        <p className="leading-[1.45] mb-0">Effective Date: 01/08/2025</p>
         <p className="leading-[1.45] mb-0">&nbsp;</p>
         <p className="leading-[1.45] mb-0">1. Acceptance of Terms</p>
         <p className="leading-[1.45] mb-0">By accessing this website, you agree to be bound by these Terms of Use.</p>
@@ -58,7 +58,7 @@ export default function Frame() {
         <p className="leading-[1.45] mb-0">&nbsp;</p>
         <p className="leading-[1.45] mb-0">9. Contact</p>
         <p className="leading-[1.45] mb-0">For questions regarding these Terms:</p>
-        <p className="leading-[1.45]">Email: [Insert Email]</p>
+        <p className="leading-[1.45]">Email: info@equnvest.com</p>
       </div>
     </div>
   );
