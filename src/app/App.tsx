@@ -185,11 +185,23 @@ function HeroSection() {
             </h1>
             
             <div className="flex flex-wrap gap-4">
-              <button className="bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white flex items-center justify-between gap-4 px-4 py-3 text-sm font-medium min-w-[280px] md:min-w-[340px]">
+              <button
+                onClick={() => {
+                  const el = document.getElementById('asset-portfolio');
+                  if (el) el.scrollIntoView({ behavior: 'smooth' });
+                }}
+                className="bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white flex items-center justify-between gap-4 px-4 py-3 text-sm font-medium min-w-[280px] md:min-w-[340px]"
+              >
                 <span>View Asset Portfolio</span>
                 <ArrowIcon />
               </button>
-              <button className="bg-white hover:bg-gray-100 transition-colors text-black px-6 py-3 text-sm font-medium">
+              <button
+                onClick={() => {
+                  const el = document.getElementById('capital-participation');
+                  if (el) el.scrollIntoView({ behavior: 'smooth' });
+                }}
+                className="bg-white hover:bg-gray-100 transition-colors text-black px-6 py-3 text-sm font-medium"
+              >
                 Explore Capital Raise
               </button>
             </div>

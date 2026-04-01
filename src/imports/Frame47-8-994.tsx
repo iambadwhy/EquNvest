@@ -62,7 +62,7 @@ export default function Frame() {
   return (
     <div className="content-stretch flex gap-[8px] items-center relative size-full">
       <Group />
-      <div className="flex flex-col font-['Abhaya_Libre_Medium:Regular',sans-serif] justify-center leading-[0] not-italic relative shrink-0 text-[36px] md:text-[40px] text-white tracking-[-1.68px]">
+      <div className="flex flex-col font-['Alice'] justify-center leading-[0] not-italic relative shrink-0 text-[36px] md:text-[40px] text-white tracking-[-1.68px]">
         <h2 className="block leading-[0.8]">EquNvest</h2>
       </div>
     </div>
