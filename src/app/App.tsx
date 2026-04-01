@@ -170,7 +170,7 @@ function HeroSection() {
     <section className="relative min-h-[600px] md:min-h-[700px] flex items-center pt-[68px]">
       <div className="absolute inset-0">
         <img alt="" className="absolute object-cover size-full" src={imgHero1} />
-        <div className="absolute bg-black/40 inset-0" />
+        <div className="absolute bg-black/20 inset-0" />
       </div>
       
       <div className="relative w-full">
