@@ -1,5 +1,5 @@
 import svgPaths from "./svg-yra3vpu3di";
-import imgPricingCards1 from "../../assets/Pricing1.png";
+import imgPricingCards1 from "../../assets/Pricing cards 1.png";
 
 function Frame1() {
   return (

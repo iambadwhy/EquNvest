@@ -1,14 +1,14 @@
 import svgPaths from "../imports/svg-ctjz8up4kh";
 import svgArrow from "../imports/svg-b4hqrccxw4";
-import imgHero1 from "../../assets/Hero1.png";
-import imgImageContainer from "../../assets/Hero2.png";
+import imgHero1 from "../../assets/Hero 1.png";
+import imgImageContainer from "../../assets/Image container.png";
 import imgFrame33 from "../../assets/Frame 33.png";
 import imgFrame34 from "../../assets/Frame 49.png";
 import imgFrame35 from "../../assets/Frame 50.png";
 import imgFrame36 from "../../assets/Frame 51.png";
 import imgFrame37 from "../../assets/Frame 52.png";
-import imgHero4 from "../../assets/Hero4.png";
-import imgPricingCards1 from "../../assets/Pricing1.png";
+import imgHero4 from "../../assets/Hero 4.png";
+import imgPricingCards1 from "../../assets/Pricing cards 1.png";
 import { useState, type ReactNode } from "react";
 import Disclaimer from "../imports/Frame50";
 import PrivacyPolicy from "../imports/Frame51";
