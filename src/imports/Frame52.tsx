@@ -58,7 +58,7 @@ export default function Frame() {
         <p className="leading-[1.45] mb-0">&nbsp;</p>
         <p className="leading-[1.45] mb-0">9. Contact</p>
         <p className="leading-[1.45] mb-0">For questions regarding these Terms:</p>
-        <p className="leading-[1.45]">Email: info@equnvest.com</p>
+        <p className="leading-[1.45]">Email: mahesh@mcnairregroup.com</p>
       </div>
     </div>
   );

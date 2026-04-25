@@ -156,7 +156,7 @@ function Header() {
           </div>
         </nav>
         
-        <a href="mailto:info@equnvest.com" className="bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white px-4 py-2 text-sm font-medium whitespace-nowrap flex items-center gap-2">
+        <a href="mailto:mahesh@mcnairregroup.com" className="bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white px-4 py-2 text-sm font-medium whitespace-nowrap flex items-center gap-2">
           <span>Let's Talk</span>
           <ArrowIcon />
         </a>
@@ -317,7 +317,7 @@ function AssetPortfolio() {
               Our portfolio spans diversified real estate and operating assets designed for cash flow, appreciation, and downside protection.
             </p>
           </div>
-          <a href="mailto:info@equnvest.com" className="bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white px-6 py-3 text-sm font-medium whitespace-nowrap shrink-0 flex items-center gap-2">
+          <a href="mailto:mahesh@mcnairregroup.com" className="bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white px-6 py-3 text-sm font-medium whitespace-nowrap shrink-0 flex items-center gap-2">
             <span>Let's Talk</span>
             <ArrowIcon />
           </a>
@@ -519,7 +519,7 @@ function ParticipationCard({ title, subtitle, content, buttonText }: any) {
           </div>
         </div>
         
-        <a href="mailto:info@equnvest.com" className="w-full bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white px-4 py-3 flex items-center justify-between">
+        <a href="mailto:mahesh@mcnairregroup.com" className="w-full bg-[#155dfc] hover:bg-[#1248d1] transition-colors text-white px-4 py-3 flex items-center justify-between">
           <span className="font-['Inter'] font-medium text-[14px] tracking-[-0.07px] leading-[1.45]">{buttonText}</span>
           <ArrowIcon />
         </a>

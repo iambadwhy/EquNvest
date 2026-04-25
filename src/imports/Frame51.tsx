@@ -70,7 +70,7 @@ export default function Frame() {
           </li>
         </ul>
         <p className="leading-[1.45] mb-0">To make a request, contact:</p>
-        <p className="leading-[1.45] mb-0">info@equnvest.com</p>
+        <p className="leading-[1.45] mb-0">mahesh@mcnairregroup.com</p>
         <p className="leading-[1.45] mb-0">&nbsp;</p>
         <p className="leading-[1.45] mb-0">8. Third-Party Links</p>
         <p className="leading-[1.45] mb-0">Our website may contain links to third-party websites. We are not responsible for their privacy practices.</p>
@@ -80,7 +80,7 @@ export default function Frame() {
         <p className="leading-[1.45] mb-0">&nbsp;</p>
         <p className="leading-[1.45] mb-0">10. Contact Information</p>
         <p className="leading-[1.45] mb-0">EquNvest LLC</p>
-        <p className="leading-[1.45]">Email: info@equnvest.com</p>
+        <p className="leading-[1.45]">Email: mahesh@mcnairregroup.com</p>
       </div>
     </div>
   );
