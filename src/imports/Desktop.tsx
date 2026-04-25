@@ -1580,7 +1580,7 @@ function Frame7() {
         </div>
       </div>
       <div className="flex flex-col font-['Inter:Medium',sans-serif] font-medium justify-center leading-[0] not-italic relative shrink-0 text-[14px] text-black text-center tracking-[-0.07px] whitespace-nowrap">
-        <p className="leading-[1.45]">info@equnvest.com</p>
+        <p className="leading-[1.45]">mahesh@mcnairregroup.com</p>
       </div>
     </div>
   );
@@ -1588,7 +1588,7 @@ function Frame7() {
 
 function PrimaryButton5() {
   return (
-    <button className="bg-[#f4f4f4] content-stretch cursor-pointer flex gap-[8px] items-center px-[16px] py-[12px] relative shrink-0" data-name="Primary button">
+    <a href="mailto:mahesh@mcnairregroup.com" className="bg-[#f4f4f4] content-stretch cursor-pointer flex gap-[8px] items-center px-[16px] py-[12px] relative shrink-0" data-name="Primary button">
       <Frame7 />
       <div className="flex items-center justify-center relative shrink-0 size-[10px]" style={{ "--transform-inner-width": "118", "--transform-inner-height": "16" } as React.CSSProperties}>
         <div className="-rotate-45 flex-none">
@@ -1601,7 +1601,7 @@ function PrimaryButton5() {
           </div>
         </div>
       </div>
-    </button>
+    </a>
   );
 }
 
